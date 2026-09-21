@@ -1,4 +1,4 @@
-// Das ist ein Dummy Kommentar, kann später entfernt werden
+// Das ist ein Kommentar, kann später entfernt werden
 
 function addieren(a, b){
     return a + b
